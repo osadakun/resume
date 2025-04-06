@@ -26,13 +26,13 @@
 - アプリの設計・開発・リリースまでの一連の流れを経験
 - MVVMアーキテクチャの理解が好きで、よく好んで使っています
 - よく使うパッケージ
-　- Dio
-　- Riverpod
-　　- riverpod_generator
-　　- riverpod_annotation
-　- Flutter Hooks
-　　- テスト観点であまりチーム開発ではあまり使っていません
-　- Freezed
+  - Dio
+  - Riverpod
+　  - riverpod_generator
+　  - riverpod_annotation
+  - Flutter Hooks
+    - テスト観点であまりチーム開発ではあまり使っていません
+  - Freezed
 - 個人開発ではよくFlutter×Supabaseを使っています 
 
 #### Ruby（経験年数１年）
@@ -54,14 +54,14 @@
 - アジャイル・スクラムによるチーム開発
 - API/テーブル設計
 - CI/CDの導入経験
-　- GitHub Actions
-　- Azure DevOps Pipelines
-　- Bitrise
+  - GitHub Actions
+  - Azure DevOps Pipelines
+  - Bitrise
 - 英語
-　- 読み書きは可能（TOEIC 720）
-　- 会話は得意ではないが業務で使用していた経験あり
+  - 読み書きは可能（TOEIC 720）
+  - 会話は得意ではないが業務で使用していた経験あり
 - プロジェクトマネージャー経験あり
-　- チームメンバーとのコミュニケーションを重視し、円滑な開発環境を構築
+  - チームメンバーとのコミュニケーションを重視し、円滑な開発環境を構築
 
 
 ---
@@ -74,7 +74,7 @@
 
 #### 実績：
 - **新規モバイルアプリ開発**
-　- まだリリース前のプロジェクトなので詳細はお伝えできませんが、Flutterを用いた新規モバイルアプリの開発に従事しています
+  - まだリリース前のプロジェクトなので詳細はお伝えできませんが、Flutterを用いた新規モバイルアプリの開発に従事しています
 
 
 ### 株式会社マネーフォワード（2023年4月 ~ 2024年9月）
@@ -86,27 +86,26 @@
 #### 実績：
 
 - **サーバーサイド開発（インターン・週2日稼働）**  
-　- 社内システムの機能改善、バグ修正を担当（2022年4月 ~ 8月）
-　- マネーフォワードMEの保守・機能追加（2022年9月 ~ 2023年4月）
-　- 主に既定仕様に基づく実装・バグ改修業務を実施
+  - 社内システムの機能改善、バグ修正を担当（2022年4月 ~ 8月）
+  - マネーフォワードMEの保守・機能追加（2022年9月 ~ 2023年4月）
+  - 主に既定仕様に基づく実装・バグ改修業務を実施
 
 - **モバイルアプリ開発（2023年4月 ~ 2024年3月）**
-　- KotlinによるAndroidアプリの保守・リリース
-　- Flutterによる「資産画面」内「推移」機能のFlutterでのリプレイスを主担当(合計1ヶ月程度で完遂)(内容は[こちら](https://note.com/me_moneyforward/n/nb8dd723ee263#2e6bfe02-f2ec-4ae9-9d9b-ab4bb2d89e6a)を参考にしてください)
-　- その他Flutterを用いた機能追加・改善業務を担当
-　- GoldenTestの導入を行い、UIテストの自動化を実施
-　　- Bitriseに追加を行い、CI/CD環境での自動テストを実施
-　　- [Flutterの既存プロダクトに Golden Testを導入する](https://moneyforward-dev.jp/entry/2023/12/08/155825)
+  - KotlinによるAndroidアプリの保守・リリース
+  - Flutterによる「資産画面」内「推移」機能のFlutterでのリプレイスを主担当(合計1ヶ月程度で完遂)(内容は[こちら](https://note.com/me_moneyforward/n/nb8dd723ee263#2e6bfe02-f2ec-4ae9-9d9b-ab4bb2d89e6a)を参考にしてください)
+  - その他Flutterを用いた機能追加・改善業務を担当
+  - GoldenTestの導入を行い、UIテストの自動化を実施
+　  - Bitriseに追加を行い、CI/CD環境での自動テストを実施
+　  - [Flutterの既存プロダクトに Golden Testを導入する](https://moneyforward-dev.jp/entry/2023/12/08/155825)
 
 - **スモールチームでのプロジェクトマネージャー業務(2024年４月〜2024年８月)**
-　- 非日本語話者である2名(1名は東京オフィス、もう1名はベトナムオフィス)のエンジニアと共にマネーフォワーMEの機能改善を担当
-　- スクラム開発を実施し、スプリント計画・デイリースクラム・レトロスペクティブを実施
+  - 非日本語話者である2名(1名は東京オフィス、もう1名はベトナムオフィス)のエンジニアと共にマネーフォワーMEの機能改善を担当
+  - スクラム開発を実施し、スプリント計画・デイリースクラム・レトロスペクティブを実施
 
 - **インターン生のメンター（2024年4月〜9月）**
-　- 週4稼働のモバイルエンジニアに対し、業務支援・技術指導・日々のメンタリングを実施
+  - 週4稼働のモバイルエンジニアに対し、業務支援・技術指導・日々のメンタリングを実施
 
 ## 自己PR
-
 Flutterを中心としたクロスプラットフォーム開発を得意としています。UI実装だけでなく、状態管理やAPI連携、パフォーマンス改善などにも関心があります。
 また自動化という文脈に強い興味があり、CI/CDの導入やテスト自動化に取り組んできました。
 趣味の延長で小中学生のバドミントンのコーチを5年ほど続けています。人と接することが好きで、チームメンバーとの密なコミュニケーションを大切にしています。
@@ -115,7 +114,8 @@ Flutterを中心としたクロスプラットフォーム開発を得意とし�
 
 ## 実績
 - 勉強会でのLT登壇
-　- [勉強会Compass](https://moneyforward.connpass.com/event/319889/)
-　- [資料](https://speakerdeck.com/toshiki9/fl-cahrtdeji-shang-mian-gurahuwoshi-zhuang-suru)
+  - [勉強会Compass](https://moneyforward.connpass.com/event/319889/)
+  - [資料](https://speakerdeck.com/toshiki9/
+fl-cahrtdeji-shang-mian-gurahuwoshi-zhuang-suru)
 - Flutter Kaigi2024でのLT登壇
-　- [資料](https://speakerdeck.com/toshiki9/fluttertesutozhan-lue-nozai-kao-pin-zhi-toxiao-lu-nobaransuwoqiu-mete-359961ba-a684-483b-b13d-ae90c6156b3c)
+  - [資料](https://speakerdeck.com/toshiki9/fluttertesutozhan-lue-nozai-kao-pin-zhi-toxiao-lu-nobaransuwoqiu-mete-359961ba-a684-483b-b13d-ae90c6156b3c)
