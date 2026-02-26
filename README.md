@@ -28,8 +28,8 @@
 - よく使うパッケージ
   - Dio
   - Riverpod
-　  - riverpod_generator
-　  - riverpod_annotation
+    - riverpod_generator
+    - riverpod_annotation
   - Flutter Hooks
     - テスト観点であまりチーム開発ではあまり使っていません
   - Freezed
