@@ -96,8 +96,8 @@
   - Flutterによる「資産画面」内「推移」機能のFlutterでのリプレイスを主担当(合計1ヶ月程度で完遂)(内容は[こちら](https://note.com/me_moneyforward/n/nb8dd723ee263#2e6bfe02-f2ec-4ae9-9d9b-ab4bb2d89e6a)を参考にしてください)
   - その他Flutterを用いた機能追加・改善業務を担当
   - GoldenTestの導入を行い、UIテストの自動化を実施
-　  - Bitriseに追加を行い、CI/CD環境での自動テストを実施
-　  - [Flutterの既存プロダクトに Golden Testを導入する](https://moneyforward-dev.jp/entry/2023/12/08/155825)
+    - Bitriseに追加を行い、CI/CD環境での自動テストを実施
+    - [Flutterの既存プロダクトに Golden Testを導入する](https://moneyforward-dev.jp/entry/2023/12/08/155825)
 
 - **スモールチームでのプロジェクトマネージャー業務(2024年４月〜2024年８月)**
   - 非日本語話者である2名(1名は東京オフィス、もう1名はベトナムオフィス)のエンジニアと共にマネーフォワーMEの機能改善を担当
